@@ -1,5 +1,5 @@
 this is a new file for practice
 
 
-Im changeing this to create a conflict
+I'm changeing this to create a conflict
 
